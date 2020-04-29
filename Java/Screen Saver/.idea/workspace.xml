@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d90f2a4f-dc4b-448d-8549-95c1a4c9944e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bDkDkurCkmXVGnlkkWlODcyAbl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.nscc.Main" />
+      <module name="Assignment4" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90f2a4f-dc4b-448d-8549-95c1a4c9944e" name="Default Changelist" comment="" />
+      <created>1588173933484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588173933484</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initialized">
+      <created>1588181276114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588181276114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finalized - Ready For Marking">
+      <created>1588201546276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588201546276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialized" />
+    <MESSAGE value="Finalized - Ready For Marking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized - Ready For Marking" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1588197745026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588197745026" />
+    <state x="473" y="114" key="CommitChangelistDialog2" timestamp="1588201545243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="473" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201545243" />
+    <state width="445" height="466" key="DebuggerActiveHint" timestamp="1588182266885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="445" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588182266885" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1588201839060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201839060" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1588201839060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201839060" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1588201839060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201839060" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1588201839060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201839060" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588201839060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201839060" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1588201839060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201839060" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1588201839060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201839060" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1588201839060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201839060" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588201553502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588201553502" />
+    <state x="666" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1588187307769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="139" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588187307769" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588178231592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588178231592" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588200814651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1588200814651" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((Circle)this).xPosition" custom="ca.nscc.Shapes.Circle" />
+        <watch expression="((Circle)this).yPosition" custom="ca.nscc.Shapes.Circle" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

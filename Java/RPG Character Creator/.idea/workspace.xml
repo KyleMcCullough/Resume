@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb67e973-f30c-44b4-a92a-98412f2c36f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Exercises/Exercise11/src/ca/nscc/DrawingBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercises/Exercise11/src/ca/nscc/MainWindow.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Assignment3" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Yow2qyVQrgtDDm9XcwBir5olHO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\kyleg\IdeaProjects\PROG1400-OOP-SourceCode-McCulloughK\Assignments\Assignment3\src\images" />
+      <recent name="E:\Users\kyleg\IdeaProjects\PROG1400-OOP-SourceCode-McCulloughK\Assignments\Assignment3\src" />
+      <recent name="E:\Users\kyleg\IdeaProjects\PROG1400-OOP-SourceCode-McCulloughK\Assignments\Assignment3\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.nscc.Main" />
+      <module name="Assignment3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb67e973-f30c-44b4-a92a-98412f2c36f7" name="Default Changelist" comment="" />
+      <created>1583622050730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583622050730</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Almost Completed&#10;&#10;To do:&#10;Play Again button">
+      <created>1586130908360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586130908360</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finalized - Ready for marking">
+      <created>1586148208232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586148208232</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Almost Completed&#10;&#10;To do:&#10;Play Again button" />
+    <MESSAGE value="Finalized - Ready for marking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized - Ready for marking" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1586122303144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586122303144" />
+    <state x="756" y="405" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586112201923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="405" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586112201923" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585585737985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1585585737985" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586128325060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586128325060" />
+    <state x="463" y="114" key="CommitChangelistDialog2" timestamp="1586148207437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148207437" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1586144265482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586144265482" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1586130980814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586130980814" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1586148402705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148402705" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1586120983352" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1586148402705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148402705" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1586120983352" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1586148402705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148402705" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1586120983352" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1586148402705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148402705" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1586120983352" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586148402705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148402705" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586148402705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148402705" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586148402705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148402705" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586148402705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148402705" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1585600926612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1585600926612" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1586117085565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586117085565" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586148225482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586148225482" />
+    <state x="342" y="140" key="new project wizard" timestamp="1586130984819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586130984819" />
+    <state x="702" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1585588827511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="139" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1585588827511" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1586121455559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586121455559" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586118319278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1586118319278" />
+  </component>
+</project>
